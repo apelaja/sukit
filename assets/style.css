@@ -365,7 +365,7 @@ input:focus, textarea:focus {
 
 .stamp-img {
     position: absolute;
-    width: 300x;
+    width: 300px;
     opacity: 0.85;
     bottom: 5px;
     left: 50%;
